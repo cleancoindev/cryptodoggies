@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "jsonfile": "^4.0.0",
-    "web3": "^0.20.5",
+    "web3": "^0.20.7",
     "zeppelin-solidity": "^1.7.0"
   },
   "directories": {
