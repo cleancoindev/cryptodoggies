@@ -31,7 +31,7 @@
   "dependencies": {
     "jsonfile": "^4.0.0",
     "web3": "^0.20.5",
-    "zeppelin-solidity": "^1.7.0"
+    "zeppelin-solidity": "^1.8.0"
   },
   "directories": {
     "test": "test"
